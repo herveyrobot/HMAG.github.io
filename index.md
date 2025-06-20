@@ -28,7 +28,7 @@ The left column depicts the baseline swarm competition scenario, whereas the rig
 <iframe 
   width="800" 
   height="450" 
-  src="https://www.youtube.com/embed/zIpyX9H4Z2c" 
+  src="https://www.youtube-nocookie.com/embed/zIpyX9H4Z2c" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
