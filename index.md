@@ -1,7 +1,6 @@
 ## Strategic Behavioral Deception in Cooperative-Competitive Multi-Agent Systems
 ## <center> Abstract <center>
 Adversarial attacks represent a fundamental security challenge for artificial intelligence systems, particularly in multi-agent deployments. While existing works predominantly focus on direct manipulation of observations or model parameters, we identify a critical gap in understanding vulnerabilities that emerge from dynamic agent interactions. Two key objectives are achieved in this study. First, we propose a hierarchical framework that develops robust swarm strategies through multi-round training of intra-swarm collaboration and inter-swarm competition, then introduces a deceptive agent that learns to exploit policy weaknesses while maintaining stealth. Second, we introduce an Meta-Deceptive Policy Learning (MDPL) algorithm that leverages curriculum learning and strategic value estimation to optimize deceptive behaviors. Notably, we discover that even robustly trained swarms remain vulnerable to single-agent deceptive attacks, revealing fundamental security challenges in existing multi-agent reinforcement learning (MARL) approaches. Extensive experiments in an Heterogeneous Air-Ground Multi-Agent environment demonstrate that our method increases the win rates of mainstream MARL algorithms by 11\% to 37\%. 
----
 
 ## Policy Trajectory Demonstration
 The left column depicts the baseline swarm competition scenario, whereas the right column demonstrates the impact of introducing deceptive adversarial attackers.
